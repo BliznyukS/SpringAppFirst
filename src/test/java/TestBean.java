@@ -1,5 +1,3 @@
-package ru.alishev.springcourse;
-
 public class TestBean {
 
     private String name;
